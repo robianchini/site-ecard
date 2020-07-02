@@ -11,4 +11,4 @@ Fique à vontade para dar uma olhada no código, para ver o site ao vivo e para 
 
 [💻  Site ao vivo](https://robianchini.github.io/site-ecard/)
 [🖍  Identidade visual](https://www.behance.net/gallery/92935293/eCard-Midias-Sociais) 
-[🖍  Projeto web](https://www.behance.net/gallery/77270189/Website-Meu-eCard) 
+[📝  Projeto web](https://www.behance.net/gallery/77270189/Website-Meu-eCard) 
